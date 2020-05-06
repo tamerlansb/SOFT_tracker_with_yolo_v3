@@ -2,6 +2,10 @@
 
 Tracker based on simple online and realtime tracking algorithm [paper](https://arxiv.org/abs/1602.00763) and it implemenation open source. 
 Detector to tracking is YOLOv3.
+Yolo weights :
+```
+wget https://pjreddie.com/media/files/yolov3.weights 
+```
 In this repo is only human tracking
 
 Tested on [Campus sequences](https://www.epfl.ch/labs/cvlab/data/data-pom-index-php/)
